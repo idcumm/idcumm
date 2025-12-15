@@ -94,9 +94,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-<!--  <a href="https://www.linkedin.com/in/oriol-llado-real" target="_blank">
+  <a href="https://www.linkedin.com/in/guillem-devesa-farr%C3%A9s-10b0333a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a> -->
+  </a>
   <a href="https://instagram.com/guillemdvx" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
