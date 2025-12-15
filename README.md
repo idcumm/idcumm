@@ -27,6 +27,12 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++" />
 </p>
 
+<h3 align="center">Scripting & Automation</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" alt="Bash" />
+  <img src="https://img.shields.io/badge/Batchfile-000000?logo=windows&logoColor=white&style=for-the-badge" alt="Batchfile" />
+</p>
+
 <!-- Bases de dades -->
 <h3 align="center">BBDD</h3>
 <p align="center">
