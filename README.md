@@ -24,7 +24,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
+</p>
+
+<h3 align="center">Systems / Low-Level</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++" />
+  <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge" alt="Assembly" />
 </p>
 
 <h3 align="center">Scripting & Automation</h3>
