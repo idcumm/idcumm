@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge" alt="Assembly" />
 </p>
 
-<h3 align="center">Scripting & Automation</h3>
+<h3 align="center">Scripting / Automation</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" alt="Bash" />
   <img src="https://img.shields.io/badge/Batchfile-000000?logo=windows&logoColor=white&style=for-the-badge" alt="Batchfile" />
